@@ -1,0 +1,3 @@
+C:/Users/sathwik/Desktop/Cprog/ptr/cmake-build-debug/CMakeFiles/ptr.dir
+C:/Users/sathwik/Desktop/Cprog/ptr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sathwik/Desktop/Cprog/ptr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
